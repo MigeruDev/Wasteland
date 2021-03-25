@@ -121,6 +121,7 @@ My Personal Website: ✨[TBD](https://github.com/TheWorstOne/)
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Proximity](https://www.youtube.com/channel/UC3ifTl5zKiCAhHIBQYcaTeg) brand logo
+* Science Kombat for the 8 bit character design
 * The page where I downloaded the songs in midi format is no longer available 😔. It's a shame, but I will always be grateful to them.
 
 
